@@ -9,6 +9,26 @@ body {
     font-size: 24px;
     background-color: rgb(33, 26, 104);
     padding: 20px;
+    font-size: medium;
+    
+}
+#tituloSeccion1{
+    text-align: center;
+} 
+#medioSuperior{
+    text-decoration: underline;
+}
+#superior{
+    text-decoration: underline;
+}
+#tituloSeccion2{
+    text-align: center;
+}
+#tituloSeccion3{
+    text-align: center;
+}
+#areasDeEnfoque{
+    text-decoration: underline;
 }
 header {
 background-color: rgb(65, 59, 130);
